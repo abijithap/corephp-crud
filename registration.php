@@ -28,7 +28,7 @@ if(isset($_POST['save'])){
   <input type="text" name="name"><br>
   Email :<br>
   <input type="email" name="email"><br>
-  Dob:<br>
+  DOB:<br>
   <input type="date" name="dob"><br>
   Status:<br>
   <input type="text" name="status"><br>
